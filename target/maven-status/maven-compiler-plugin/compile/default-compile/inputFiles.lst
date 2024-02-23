@@ -1,0 +1,15 @@
+/Users/js/Desktop/learnacademy/src/main/java/com/experiment/learningacademy/repository/StudentRepository.java
+/Users/js/Desktop/learnacademy/src/main/java/com/experiment/learningacademy/entity/LoginResponseEntity.java
+/Users/js/Desktop/learnacademy/src/main/java/com/experiment/learningacademy/service/StudentService.java
+/Users/js/Desktop/learnacademy/src/main/java/com/experiment/learningacademy/util/MailSender.java
+/Users/js/Desktop/learnacademy/src/main/java/com/experiment/learningacademy/security/JWTAuthenticationEntryPoint.java
+/Users/js/Desktop/learnacademy/src/main/java/com/experiment/learningacademy/security/JwtTokenUtility.java
+/Users/js/Desktop/learnacademy/src/main/java/com/experiment/learningacademy/config/AppConfig.java
+/Users/js/Desktop/learnacademy/src/main/java/com/experiment/learningacademy/entity/LoginEntity.java
+/Users/js/Desktop/learnacademy/src/main/java/com/experiment/learningacademy/LearningacademyApplication.java
+/Users/js/Desktop/learnacademy/src/main/java/com/experiment/learningacademy/controller/RegistrationController.java
+/Users/js/Desktop/learnacademy/src/main/java/com/experiment/learningacademy/util/MailConfiguration.java
+/Users/js/Desktop/learnacademy/src/main/java/com/experiment/learningacademy/config/SecurityConfig.java
+/Users/js/Desktop/learnacademy/src/main/java/com/experiment/learningacademy/security/JWTAuthenticationFilter.java
+/Users/js/Desktop/learnacademy/src/main/java/com/experiment/learningacademy/model/Student.java
+/Users/js/Desktop/learnacademy/src/main/java/com/experiment/learningacademy/controller/LoginController.java
