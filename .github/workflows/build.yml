@@ -20,7 +20,7 @@ jobs:
     steps:
         - uses: actions/checkout@v3
         - name: Build
-        - run: ./mvnw clean package
+          run: ./mvnw clean package
         - name: Build docker image
           run: |
             docker build -t learningacademy .
