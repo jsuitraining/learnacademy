@@ -1,6 +1,7 @@
+
 FROM openjdk:17
+COPY --from=builder /learningacademy/target/learningacademy-0.0.1-SNAPSHOT.jar cicdproject01.jar
 EXPOSE 8080
-ADD target/learningacademy.jar javacicddemo.jar
-ENTRYPOINT ["java","-jar","/javacicddemo.jar"]
+ENTRYPOINT ["java", "-jar", "cicdproject01.jar"]
 
 
