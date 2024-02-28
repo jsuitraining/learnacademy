@@ -1,10 +1,10 @@
-name: Project demo on CICD pipeline setup
+
+name: Build & Deploy
 
 on:
   push:
-    branches: [ "master" ]
-  pull_request:
-    branches: [ "master" ]
+    branches: [ main ]
+  workflow_dispatch:
 
 jobs:
   build:
